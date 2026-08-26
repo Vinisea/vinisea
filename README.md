@@ -42,6 +42,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Vinisea&layout=compact&langs_count=3&hide_values=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Vinisea&layout=compact&langs_count=3&hide_values=true&theme=tokyonight)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Vinisea&rank_icon=github&hide_title=true&show_icons=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Vinisea&rank_icon=github&hide_title=true&show_icons=true&theme=tokyonight)
 </div>
 
 ---
