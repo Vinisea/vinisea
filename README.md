@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Vinicius!
 
 ### 🚀 Transformando café em código (e bugs em aprendizado)
 
